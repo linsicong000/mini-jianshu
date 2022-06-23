@@ -1,0 +1,9 @@
+{
+    "mongo": {
+        "host": "10.197.77.169",
+        "port": "8017",
+        "database": "jianshu",
+        "username": "admin",
+        "password": "qwe,./123"
+    }
+}
